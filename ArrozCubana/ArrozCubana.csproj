@@ -67,6 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="arroz.jpg" />
+    <Content Include="Main.html" />
+    <Content Include="Estilos.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

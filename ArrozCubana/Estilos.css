@@ -1,0 +1,9 @@
+﻿body {
+    background: linear-gradient(#808080, white, #808080)
+}
+.centrado {
+    text-align: center;
+}
+.negrita {
+    font-weight: bold;
+}
